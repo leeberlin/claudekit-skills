@@ -17,6 +17,24 @@
 
 ---
 
+## 🚀 Quick Start - Chạy ngay trong 3 bước!
+
+```bash
+# 1. Mở project
+cd macos-pdf-editor
+./run.sh
+
+# 2. Trong Xcode: Chọn "My Mac" ở góc trên trái
+
+# 3. Nhấn ⌘ + R
+```
+
+**Done!** App sẽ launch sau 2-5 phút build.
+
+📖 **Chi tiết?** → Xem [RUN_LOCAL.md](RUN_LOCAL.md) hoặc [CHECKLIST.md](CHECKLIST.md)
+
+---
+
 ## 📸 Screenshots
 
 > *Screenshots sẽ được thêm vào khi build ứng dụng*
